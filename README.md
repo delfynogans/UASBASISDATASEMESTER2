@@ -1,5 +1,6 @@
 # UAS BASIS DATA 
-<img src= https://www.google.com/url?sa=i&url=https%3A%2F%2Ffkm.uad.ac.id%2Fujian-akhir-semester-dan-ujian-ulang-gasal-2020-2021%2F&psig=AOvVaw1yFfXJwdNYoB7ekO7WAaXu&ust=1719894219399000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjPiLn_hIcDFQAAAAAdAAAAABAE.jpg width="750px" >
+
+![UAS](https://github.com/delfynogans/UASBASISDATASEMESTER2/assets/148219520/8abce038-5c08-4198-9834-8c09bbfbfdba)
 
 
 ## Profil
