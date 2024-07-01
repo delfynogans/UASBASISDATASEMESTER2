@@ -1,4 +1,5 @@
-# UAS BASIS DATA <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+# UAS BASIS DATA 
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ffkm.uad.ac.id%2Fujian-akhir-semester-dan-ujian-ulang-gasal-2020-2021%2F&psig=AOvVaw1yFfXJwdNYoB7ekO7WAaXu&ust=1719894219399000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjPiLn_hIcDFQAAAAAdAAAAABAE width="750px" >
 
 
 ## Profil
