@@ -1,6 +1,7 @@
 # UAS BASIS DATA 
 
-![UAS](https://github.com/delfynogans/UASBASISDATASEMESTER2/assets/148219520/8abce038-5c08-4198-9834-8c09bbfbfdba)
+![UAS](https://github.com/delfynogans/UASBASISDATASEMESTER2/assets/148219520/b35b36e7-2f2e-4180-b796-f43e7c3dd423)
+
 
 
 ## Profil
